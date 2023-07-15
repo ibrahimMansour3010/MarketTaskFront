@@ -1,0 +1,11 @@
+/* styles.css or styles.scss */
+.edit-icon {
+    color: #007bff; /* Replace with the desired color */
+    cursor: pointer;
+  }
+  
+  .delete-icon {
+    color: #dc3545; /* Replace with the desired color */
+    cursor: pointer;
+    
+  }
